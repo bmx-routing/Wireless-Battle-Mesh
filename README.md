@@ -21,9 +21,12 @@ BMX-routing team will support the event by:
 * Introduce ongoing and upcoming projects 
 * Contribute to experimentation with hardware, test configuration and analysis
 
+Looking forward to meet you...
 
 [BMX-routing]: https://github.com/bmx-routing
 [c-base]: http://www.c-base.org/
 [Wireless Meshup]: https://www.wireless-meshup.org
 [BattleMesh]: https://www.battlemesh.org/
 [Freifunk]: https://freifunk.net/en/
+
+
