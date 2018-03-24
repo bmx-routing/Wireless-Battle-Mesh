@@ -1,7 +1,7 @@
 # Wireless-Meshup
-"Mesh is in the air" - this year mesh up of the "Wireless Battle of the Mesh (WBMv11)" and "Wireless Community Weekend (WCW18)" at Berlin C-Base from 7. - 13. May 2018
+[__Mesh is in the air__][Wireless Meshup] - this year mesh up of the "Wireless Battle of the Mesh (WBMv11)" and "Wireless Community Weekend (WCW18)" at Berlin [c-base] from 7. - 13. May 2018
 
-[BMX-routing] project endorses _"Mesh is in the air"_ - this year mesh up of the __"Wireless Battle of the Mesh (WBMv11)"__ and *"Wireless Community Weekend (WCW18)"*.
+[BMX-routing] project endorses __"Mesh is in the air"__ - this year mesh up of the __"Wireless Battle of the Mesh (WBMv11)"__ and __"Wireless Community Weekend (WCW18)"__.
 
 We keep the approach to test the performance of different routing protocols for ad-hoc networks and combine it with the celebration of the 15th anniversary of the yearly Freifunk community get together. The mix becomes a global gathering of wifi tech experts, mesh developers and community networkers that join the event to hack, test, discuss, explain, learn and barbecue at [c-base], Berlins famous hacker-space-station.
 
